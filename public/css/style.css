@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-kerning: auto;
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
+html,body {
+	font-family: "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif, "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+
+body {
+  color: #576366;
+}
+
+#player {
+	background: #f1f3f4;
+}
+
+button.clear {
+	display:none;
+}
+
+div.v-select > * {
+	text-transform: capitalize !important;
+    font-size: 1em;
+    font-family: "Gotham Rounded";
+}
+
+.open-indicator {
+	margin-right: 2px;
+}
+
+.libraryItem:first-child {
+	margin-top:0;
+}
+.libraryItem {
+	margin-top:6px;
+}
+
+#logo {
+	position: relative;
+}
+
+#logo .logoa {
+	position:absolute;
+	top:-30px;
+	left:-30px;
+	font-size:60px;
+}
+
+#logo .logob {
+	position:absolute;
+	top:-3px;
+	left:-6px;
+	font-size:26px;
+}

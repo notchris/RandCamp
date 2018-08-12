@@ -1,0 +1,24 @@
+{
+  "name": "randcamp",
+  "version": "1.0.0",
+  "description": "Generate random playlists from Bandcamp. Made with Vue.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "vue",
+    "bandcamp",
+    "audio",
+    "playlist"
+  ],
+  "author": "notchris",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0"
+  }
+}
