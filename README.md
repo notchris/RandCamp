@@ -1,4 +1,3 @@
-# RandCamp
 ![alt text](https://i.imgur.com/NCBBUhC.png)
 
 View the [Demo](https://notchris.net:5000/)
